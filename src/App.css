@@ -4,9 +4,4 @@
   min-height: 100vh;
   box-sizing: border-box;
   position: relative;
-  /* Created with https://www.css-gradient.com */
-  background: #FCC397;
-  background: -webkit-linear-gradient(bottom right, #FCC397, #FF8A54);
-  background: -moz-linear-gradient(bottom right, #FCC397, #FF8A54);
-  background: linear-gradient(to top left, #FCC397, #FF8A54);
 }

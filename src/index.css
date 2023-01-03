@@ -5,3 +5,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+#root {
+  min-width: 95vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
