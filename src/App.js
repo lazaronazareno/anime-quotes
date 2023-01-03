@@ -109,7 +109,7 @@ function App () {
 }         </>
         : <Container>
           <h1>Anime Quotes</h1>
-          <Button onClick={getAnimeQuote}>Generate new</Button>
+          <Button onClick={getAnimeQuote}>Generate Quote</Button>
           {// eslint-disable-next-line react/jsx-closing-tag-location
 }        </Container>}
     </>
